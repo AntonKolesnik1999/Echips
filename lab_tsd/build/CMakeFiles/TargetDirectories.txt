@@ -1,0 +1,3 @@
+/home/anton/github/lab_tsd/build/CMakeFiles/lab1.dir
+/home/anton/github/lab_tsd/build/CMakeFiles/edit_cache.dir
+/home/anton/github/lab_tsd/build/CMakeFiles/rebuild_cache.dir
